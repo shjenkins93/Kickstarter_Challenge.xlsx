@@ -1,0 +1,33 @@
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+We are analyzing data for a playwrite who wants to start a crowdfunding campaing to help fund her play. We will take the data provided and organize, sort, and anaylize different crowdfunding data to find out if different factors need to be taken into consideration to determine a campaigns success.
+
+## Analysis and Challenges
+I was able to take the data and create multiple pivot tables and sort and filter through the data to see outcomes specifically related to theater and how launch date and goals contribute to a campaigns success. 
+The outcomes based on goals was the most challenging part for me because of the long COUNTIFS formulas. I watched the hint video multiple times and was able to eventually recreate the formulas for each column.
+
+### Analysis of Outcomes Based on Launch Date
+1. The highest theater campaign success occured in May and there was a steep decline after May until September. 
+2. October did not have any canceled theater campaigns but there was an increase in failed campaigns.
+### Analysis of Outcomes Based on Goals
+I can conclude that a $1000 to $4999 goal has the highest success rate. The highest goal of $50,000+ had the lowest success percentage and the highest failed percentage.
+
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+1. The highest theater campaign success occured in May and there was a steep decline after May until September. 
+2. October did not have any canceled theater campaigns but there was an increase in failed campaigns.
+
+- What can you conclude about the Outcomes based on Goals?
+I can conclude that a $1000 to $4999 goal has the highest success rate. The highest goal of $50,000+ had the lowest success percentage and the highest failed percentage.
+
+
+- What are some limitations of this dataset?
+We do not have information regarding why a campaign was canceled versus failed. 
+
+- What are some other possible tables and/or graphs that we could create?
+We could compare the different subcategories and how they performed in different locations giving us insight into how successful these categories will be if launched in a different country versus the country it was actually funded in.
